@@ -98,17 +98,17 @@ Crear una tarea de compresión auditiva basada en un diálogo entre tres persona
 **Diálogo de ejemplo**  
 Ana es de España, Bruno es de Argentina y Carlos es de Colombia.
 
-1-A: Hola chicos, ¿cómo están?
-2-B: Hola Ana, nada mal, gracias.
-3-C: Sí, todo bien. ¿Y tú?
-4-A: Para ser honesta, un poco estresada... Hoy tengo mi examen de manejo.
-5-B: ¿En serio? ¡Pensé que era la próxima semana!
-6-A: Originalmente sí, pero me lo cambiaron.
-7-C: Qué mala suerte. Pero has practicado mucho, ¡seguro que aprobarás!
-8-A: ¡Eso espero!
+**1-A:** Hola chicos, ¿cómo están?  
+**2-B:** Hola Ana, nada mal, gracias.  
+**3-C:** Sí, todo bien. ¿Y tú?  
+**4-A:** Para ser honesta, un poco nerviosa... Hoy tengo mi examen de manejo.  
+**5-B:** ¿En serio? ¡Pensé que era la próxima semana!  
+**6-A:** Originalmente sí, pero me lo cambiaron.  
+**7-C:** Qué mala suerte. Pero has practicado mucho, ¡seguro que aprobarás!  
+**8-A:** ¡Eso espero!
 
 Pregunta
-Ana va a tomar su examen de manejo. ¿Por qué está estresada?
+Ana va a tomar su examen de manejo. ¿Por qué está nerviosa?
 
 a) No ha practicado demasiado.  
 b) Su examen fue postergado para la semana que viene.  
