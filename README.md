@@ -9,7 +9,10 @@ www.menti.com
 
 ### Tarea
 **Crear un ejercicio para rellenar espacios en blanco a partir del siguiente texto. Usar un modelo de lenguaje para identificar palabras óptimas para eliminar.**
+
 Francisco era un niño apasionado por el ajedrez desde pequeño. Un día, mientras jugaba en la plaza, conoció a un gran maestro que lo vio jugar y decidió tomarlo bajo su cuidado. Con sus enseñanzas, Francisco rápidamente mejoró sus habilidades y pronto se convirtió en un famoso jugador de ajedrez. A medida que crecía, Francisco ganó varios torneos importantes y se estableció como uno de los mejores jugadores de España. Su talento natural y dedicación al juego hicieron que fuera considerado uno de los grandes maestros de ajedrez de todos los tiempos.
+
+
 ### BERT
 Español: https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased  
 Multilingüe: https://huggingface.co/xlm-roberta-large  
