@@ -62,7 +62,7 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 2. Use an ASR service to generate an automatic transcription of the audio.
 3. Compare both transcriptions and compute a word error rate (WER).
 
-https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826e84a93e9
+https://github.com/mfelice/giele2023/assets/11545607/28139b7e-3a8d-4adf-9887-e7cd35330aae
 
 ### ASR services
 **OpenAI Whisper:** https://replicate.com/openai/whisper  
