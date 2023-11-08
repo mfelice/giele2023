@@ -107,7 +107,7 @@ Ana es de España, Bruno es de Argentina y Carlos es de Colombia.
 **7-C:** Qué mala suerte. Pero has practicado mucho, ¡seguro que aprobarás!  
 **8-A:** ¡Eso espero!
 
-Pregunta
+**Pregunta**  
 Ana va a tomar su examen de manejo. ¿Por qué está nerviosa?
 
 a) No ha practicado demasiado.  
