@@ -45,7 +45,7 @@ https://writeandimprove.com/workbooks#/wi-workbooks
 
 ## Corrección gramatical
 
-### Task
+### Tarea
 
 **Corregir el siguiente texto:**
 
@@ -56,7 +56,7 @@ I think that the summer makes people to feel great, to have fun, to enjoy themse
 ### Correctores gramaticales
 Español:
 https://spanishchecker.com/es/ 
-https://abccorrector.com/corrector-castellano.html  
+https://abccorrector.com/corrector-castellano.html 
 https://lorcaeditor.com/  
 Multilingües: 
 **LanguageTool:** https://languagetool.org/  
@@ -72,7 +72,7 @@ Inglés:
 https://nlptoolbox.cl.cam.ac.uk/errant/
 
 ## Reconocimiento automático del habla
-**Task**
+**Tarea**
 1. Escuchar el siguiente fragmento de audio y transcribir lo que se dice.
 2. Usar un servicio de reconocimiento de voz para generar una transcripción del audio. 
 3. Comparar ambas transcripciones y calcular la tasa de error (WER).
@@ -115,7 +115,7 @@ b) Su examen fue postergado para la semana que viene.
 d) Su examen es hoy.  
 c) No se siente confiada de aprobar.  
 
-### TTS services
+### Servicios de texto a voz
 https://ttsfree.com/  
 https://ttsmp3.com/  
 https://ttstool.com/  
@@ -136,16 +136,16 @@ https://audio-joiner.com/
 **Claude:** https://claude.ai/  
 
 ### Tarea I
-Can you guess who wrote these texts?
-A human or a machine?
+¿Puedes adivinar quién escribió estos textos?
+¿Un humano o una máquina?
 
-**Passsage 1**  
+**Texto 1**  
 Every country in the world suffers environmental catastrophes. This is a natural consequence of the struggle between development and environment. If a country decided to live isolated from the rest of the world, living on what it can naturally grow and produce, it surely wouldn’t be highly polluted. But we all want exotic food and technological items from all over the world, so we have to pay the price. Investing on electrical transport would benefit the environment a lot. Even more if this electricity came from a natural source of energy like wind, rivers and solar boards. We also have to take care of our rivers and seas. We all have heard about factories throwing highly toxic substances to rivers, without minimizing their poisoning effects. A really strict law should be applied to fine these factories and make them change their policy.
 
-**Passsage 2**  
+**Texto 2**  
 Global warming is a serious issue that affects the entire planet. The Earth's temperature is rising because of human activities. When we burn fossil fuels like coal, oil, and gas, harmful gases are released into the atmosphere. These gases trap heat from the sun and cause the Earth to become warmer. This leads to various problems such as melting ice caps, rising sea levels, and extreme weather events. It is important to reduce our carbon footprint by using less energy and finding cleaner sources of power. We can also make a difference by recycling, conserving water, and protecting natural habitats. Taking action against global warming is crucial for the well-being of our planet and future generations.
 
-**Passsage 3**  
+**Texto 3**  
 Society has a responsibility to take care of the environment. We all live on this planet, so it's important for us to do our part to keep it clean and healthy. There are many things we can do to be environmentally responsible. We should recycle our waste, such as paper, plastic, and cans, instead of throwing them away. It's also important to save energy by turning off lights and appliances when we're not using them. Using public transportation or carpooling can help reduce pollution from cars. We should also avoid wasting water and try to conserve it. Planting trees and taking part in community clean-up activities are great ways to contribute to a cleaner environment. By being environmentally responsible, we can make a positive impact on our planet and ensure a better future for ourselves and future generations.
 
 ### Detectores de contenido generado por IA
@@ -159,8 +159,8 @@ https://originality.ai/ (de pago)
 
 ### Tarea II
 
-Can you “humanise” the following AI-generated text?
-Can we fool detectors?
+¿Puedes "humanizar" el siguiente texto generado mediante IA?
+¿Es posible engañar a los detectores?
 
 **The Importance of Art**
 
@@ -170,23 +170,17 @@ In education, art can enhance cognitive development, creativity, and problemsolv
 
 In essence, art is more than just a form of entertainment; it is a powerful tool that can enrich lives, promote empathy, and nurture creativity. By embracing art in all its forms, we can enhance our collective human experience and create a more vibrant and culturally rich society.
 
-### AI text "humanisers"
+### "Humanizadores" de texto generado por IA
 https://undetectable.ai/ (de pago)  
 
+## Texto a imagen
 
-## Text to image
-
-### Task
-Using an LLM, experiment with different prompts to perform the tasks in the previous slide.
-How would you rate the quality of the output?
-How much effort does it take to achieve the desired results?
-
-### Task
-Can you write a prompt to generate an image like this one?  
+### Tarea
+¿Puedes escribir las instrucciones necesarias para crear una imagen como la siguiente?
 
 ![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
 
-### AI image generators
+### Generadores de imágenes mediante IA
 **DALL·E 2:** https://labs.openai.com/  
 **Stable Diffusion:** https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
 **Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
