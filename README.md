@@ -16,8 +16,7 @@ Francisco era un niño apasionado por el ajedrez desde pequeño. Un día, mientr
 ### BERT
 Español: https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased  
 Multilingüe: https://huggingface.co/xlm-roberta-large  
-Inglés: 
-
+Inglés:  
 https://huggingface.co/spaces/UserConfused/bert-base-uncased  
 https://huggingface.co/bert-base-uncased  
 https://huggingface.co/bert-large-uncased  
