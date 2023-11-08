@@ -71,11 +71,11 @@ Inglés:
 ### ERRANT
 https://nlptoolbox.cl.cam.ac.uk/errant/
 
-## Automatic speech recognition
+## Reconocimiento automático del habla
 **Task**
-1. Listen to the following audio clip and manually transcribe what you hear.
-2. Use an ASR service to generate an automatic transcription of the audio.
-3. Compare both transcriptions and compute a word error rate (WER).
+1. Escuchar el siguiente fragmento de audio y transcribir lo que se dice.
+2. Usar un servicio de reconocimiento de voz para generar una transcripción del audio. 
+3. Comparar ambas transcripciones y calcular la tasa de error (WER).
 
 https://github.com/mfelice/giele2023/assets/11545607/28139b7e-3a8d-4adf-9887-e7cd35330aae
 
@@ -87,33 +87,33 @@ https://github.com/mfelice/giele2023/assets/11545607/28139b7e-3a8d-4adf-9887-e7c
 ### Calculadora WER
 https://www.amberscript.com/en/wer-tool/
 
-## Speech synthesis (text to speech)
-### Task
-Create a listening comprehension question consisting of a dialogue between three people with different accents.
+## Síntesis de habla (texto a voz)
+### Tarea
+Crear una tarea de compresión auditiva basada en un diálogo entre tres personas con distintos acentos.
 
-1. Create a short dialogue and question.
-2. Create an audio file for each turn of the conversation using a TTS service.
-3. Join all the audio files together.
+1. Crear un breve diálogo y una pregunta de comprensión opción múltiple.
+2. Crear un fichero de audio para cada intervención mediante el uso de un servicio de texto a voz.
+3. Unir todos los ficheros de audio individuales en un único fichero.
 
-**Sample dialogue**  
-Ani is from Kenya, Ben is from the UK and Chaya is from India.  
+**Diálogo de ejemplo**  
+Ana es de España, Bruno es de Argentina y Carlos es de Colombia.
 
-**1-A:** Hi guys, how are you doing?  
-**2-B:** Hi Ani, not bad, thanks.  
-**3-C:** Yeah, all good. How about you?  
-**4-A:** A bit stressed to be honest... I've got my driving test today.  
-**5-B:** Really? I thought it was next week!  
-**6-A:** It was, but they changed it.  
-**7-C:** That's unfortunate. But you've practised a lot, I'm sure you'll pass!  
-**8-A:** I hope so!  
+1-A: Hola chicos, ¿cómo están?
+2-B: Hola Ana, nada mal, gracias.
+3-C: Sí, todo bien. ¿Y tú?
+4-A: Para ser honesta, un poco estresada... Hoy tengo mi examen de manejo.
+5-B: ¿En serio? ¡Pensé que era la próxima semana!
+6-A: Originalmente sí, pero me lo cambiaron.
+7-C: Qué mala suerte. Pero has practicado mucho, ¡seguro que aprobarás!
+8-A: ¡Eso espero!
 
-**Question**  
-Ani is going to take a driving test. Why is she stressed about it?
+Pregunta
+Ana va a tomar su examen de manejo. ¿Por qué está estresada?
 
-a) She hasn't practised much.  
-b) Her test has been postponed until next week.  
-d) Her test is today.  
-c) She is not confident she will pass.  
+a) No ha practicado demasiado.  
+b) Su examen fue postergado para la semana que viene.  
+d) Su examen es hoy.  
+c) No se siente confiada de aprobar.  
 
 ### TTS services
 https://ttsfree.com/  
@@ -123,10 +123,10 @@ https://huggingface.co/spaces/elevenlabs/tts
 https://freetools.textmagic.com/text-to-speech  
 https://speechgen.io/
 
-### Audio joiner
+### Unificador de audio
 https://audio-joiner.com/
 
-## Large language models
+## Modelos de lenguaje de gran tamaño
 
 ### LLMs
 **ChatGPT:** https://chat.openai.com/  
@@ -135,7 +135,7 @@ https://audio-joiner.com/
 **Llama 2:** https://labs.perplexity.ai/ https://www.llama2.space/  
 **Claude:** https://claude.ai/  
 
-### Task I
+### Tarea I
 Can you guess who wrote these texts?
 A human or a machine?
 
@@ -148,16 +148,16 @@ Global warming is a serious issue that affects the entire planet. The Earth's te
 **Passsage 3**  
 Society has a responsibility to take care of the environment. We all live on this planet, so it's important for us to do our part to keep it clean and healthy. There are many things we can do to be environmentally responsible. We should recycle our waste, such as paper, plastic, and cans, instead of throwing them away. It's also important to save energy by turning off lights and appliances when we're not using them. Using public transportation or carpooling can help reduce pollution from cars. We should also avoid wasting water and try to conserve it. Planting trees and taking part in community clean-up activities are great ways to contribute to a cleaner environment. By being environmentally responsible, we can make a positive impact on our planet and ensure a better future for ourselves and future generations.
 
-### AI content detectors
+### Detectores de contenido generado por IA
 https://gptzero.me/  
 https://writer.com/ai-content-detector/  
 https://platform.openai.com/ai-text-classifier  
 https://contentatscale.ai/ai-content-detector/  
 https://www.wordtune.com/ai-content-detector  
 https://undetectable.ai/  
-https://originality.ai/ (paid)  
+https://originality.ai/ (de pago)  
 
-### Task II
+### Tarea II
 
 Can you “humanise” the following AI-generated text?
 Can we fool detectors?
@@ -171,7 +171,7 @@ In education, art can enhance cognitive development, creativity, and problemsolv
 In essence, art is more than just a form of entertainment; it is a powerful tool that can enrich lives, promote empathy, and nurture creativity. By embracing art in all its forms, we can enhance our collective human experience and create a more vibrant and culturally rich society.
 
 ### AI text "humanisers"
-https://undetectable.ai/ (paid)  
+https://undetectable.ai/ (de pago)  
 
 
 ## Text to image
