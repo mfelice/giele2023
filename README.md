@@ -31,12 +31,12 @@ https://philferriere.shinyapps.io/WordPredictR/
 ## Evaluación automática de textos
 
 ### Tarea I
-**Entrenar un clasificador para predecir el nivel MCER de un texto.**
+**Entrenar un clasificador para predecir el nivel MCER de un texto y calcular su exactitud.**
 
 **Plataforma de entrenamiento:** https://machinelearningforkids.co.uk/?lang=es  
 
 ### Tarea II
-**Determinar manualmente el nivel MCER del siguiente texto escrito por un estudiante de español**
+**Determinar manualmente el nivel MCER del siguiente texto escrito por un estudiante de español.**
 
 Nací en Asia y viví mucho tiempo allí en varios países, pero como mis padres son británicos, al cabo de unos años terminamos en Escocia, país natal de mi padre. Siempre he querido volver a Asia a visitar los sitios en donde pasé mi niñez y tuve la oportunidad hace unos años de hacerlo. Habían invitado a mi marido a dar una charla en una universidad en Tailandia, así que, sin más, aceptamos la invitación y nos fuimos. De camino a Tailandia pasamos por Malasia, donde había vivido cuatro años. Avisamos al director de la finca donde había trabajado mi padre de nuestra llegada y nos dirigimos allí. Cuando vivía en Malasia la finca era una plantación de té, mezclado con algunos árboles de goma para dar sombra. Ya solo cultivaban los árboles de goma y los labradores ya no eran indios y chinos, como en mi día, sino gente de Indonesia y Filipinas. El director fue increíblemente amable y nos llevó a mi antigua casa. Era obvio que habían cortado el césped aquel día y se habían molestado mucho en preparar la casa para nuestra visita. Me asombraba que estaba exactamente como cuando vivía en ella hacía 35 años, incluso tenía las mismas cortinas y algunos de los muebles eran los mismos. Entramos en una habitación que anteriormente había sido el despacho de mi padre. No habían tenido tiempo de limpiarlo y estaba llena de telarañas, y casi impenetrable. La casa estaba abandonada, ya que no había tanta personal como en el día de mi padre, y el nuevo director vivía en otra casa en la finca.
 
