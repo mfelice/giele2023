@@ -182,5 +182,5 @@ Escribir las instrucciones necesarias para crear una imagen como la siguiente.
 
 ### Generadores de imágenes mediante IA
 **DALL·E 2:** https://labs.openai.com/  
-**Stable Diffusion:** https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
+**Stable Diffusion:** https://stablediffusion.fr/xl https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
 **Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
