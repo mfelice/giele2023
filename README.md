@@ -176,7 +176,7 @@ https://undetectable.ai/ (de pago)
 ## Texto a imagen
 
 ### Tarea
-¿Puedes escribir las instrucciones necesarias para crear una imagen como la siguiente?
+Escribir las instrucciones necesarias para crear una imagen como la siguiente.
 
 ![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
 
