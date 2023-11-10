@@ -136,7 +136,7 @@ https://audio-joiner.com/
 **Claude:** https://claude.ai/  
 
 ### Tarea I
-¿Puedes adivinar quién escribió estos textos?
+¿Quién escribió estos textos?
 ¿Un humano o una máquina?
 
 **Texto 1**  
